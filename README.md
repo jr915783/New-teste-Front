@@ -7,3 +7,4 @@ precisa ultilizr o comanda update-database no package manage console do visual e
 para criar o banco, migration já esta criada só precisa do comando
 Foi Criado um método para popular o banco a primeira vez que rodas esse método adiciona duas vagas de emprego ao bando de forma que facilite os teste
 Foi cria já filtro fixos porém os filtros já funcionada de maneira de falicitar os testes
+Projeto na branch Master
